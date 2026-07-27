@@ -16,7 +16,7 @@ const TOOLS: ToolCard[] = [
     icon: '🎮',
     title: 'OW Coach',
     desc: '守望先锋 AI 教练。根据英雄克制关系、数值数据和社区攻略，分析对局并提供战术建议。',
-    url: '/',
+    url: 'https://coach.alphaqwq.xyz',
     tags: ['Overwatch 2', 'AI', '对战分析'],
   },
   {
