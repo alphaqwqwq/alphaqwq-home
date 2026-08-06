@@ -28,6 +28,14 @@ const TOOLS: ToolCard[] = [
     tags: ['Overwatch 2', '分队', '平衡'],
   },
   {
+    id: 'fleet-room',
+    icon: '⚓',
+    title: '舰队联机房间',
+    desc: '临时房主模式联机验证原型，支持房间码、玩家与观战者、重连身份和本地快照。',
+    url: 'https://fleet-room.vercel.app',
+    tags: ['联机', '房间码', '观战'],
+  },
+  {
     id: 'more',
     icon: '🔧',
     title: '更多工具',
