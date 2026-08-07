@@ -28,12 +28,12 @@ const TOOLS: ToolCard[] = [
     tags: ['Overwatch 2', '分队', '平衡'],
   },
   {
-    id: 'fleet-room',
+    id: 'fleet-campaign',
     icon: '⚓',
-    title: '舰队联机房间',
-    desc: '临时房主模式联机验证原型，支持房间码、玩家与观战者、重连身份和本地快照。',
-    url: 'https://fleet-room.vercel.app',
-    tags: ['联机', '房间码', '观战'],
+    title: '舰队战役',
+    desc: '舰队战役官方入口。Fleet Campaign 网页发布自动化基础已就绪，后续战役功能将在此上线。',
+    url: 'https://fleet.alphaqwq.xyz',
+    tags: ['战役', '官方入口'],
   },
   {
     id: 'more',
